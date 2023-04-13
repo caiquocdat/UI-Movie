@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="TabLayoutTextAppearance" parent="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse">
+        <item name="android:textSize">10sp</item>
+        <item name="paddingStart">-5dp</item>
+    </style>
+    <style name="AppTheme.ActionBarOverlay" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+</resources>
